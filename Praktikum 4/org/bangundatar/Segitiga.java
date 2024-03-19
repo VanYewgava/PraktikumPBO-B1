@@ -1,5 +1,5 @@
 /* 
-* FIle : PersegiPanjang.java 02/04/2024
+* FIle : Segitiga.java 02/04/2024
 * Penulis : Achmad Ivan Yugava
 * Desc : representasi dari objek segitiga, turunan kelas poligon
 */
